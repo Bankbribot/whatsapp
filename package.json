@@ -32,17 +32,18 @@
   "scripts": {
     "test": "node index"
   },
-  "repository": {
+  "repositori" : {
     "type": "git",
-    "url" : "git+https://github.com/bankbribot/whatsapp"
+    "url" : "git+https://github.com/bankbribot/whatsapp
   },
   "keywords": [
     "k"
   ],
   "penulis" : "bank bri",
-  "license": "BRI",
+  "lisensi" : "BRI" ,
   "bugs": {
-    "url" : "https://github.com/bankbribot/whatsapp"
+    "url" : "https://github.com/bankbribot/whatssapp/issues"
   },
-  "homepage" : "hhttps://github.com/bankbribot/whatsapp"
+  "beranda" : "https://github.com/bankbribot/whatsapp/readme"
 }
+kami

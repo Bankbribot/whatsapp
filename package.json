@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url" : "git+https://github.com/bankbribot/whatsapp"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
-  "license": "ISC",
+  "penulis" : "bank bri",
+  "license": "BRI",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url" : "https://github.com/bankbribot/whatsapp"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage" : "hhttps://github.com/bankbribot/whatsapp"
 }

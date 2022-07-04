@@ -1,13 +1,13 @@
-## KNTNBOTWA
+## BANKBOTWA
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
 
 
-
-
-## CARA INSTALL
+kami
+kami
+## CARA INSTAL
 # TERMUX
 ```bash
 > download termux
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/bankbribot/whatsapp
+> cd whatsapp
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
